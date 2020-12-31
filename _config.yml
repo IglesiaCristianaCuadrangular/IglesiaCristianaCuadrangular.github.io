@@ -2,7 +2,7 @@ title: Iglesia Cuadrangular de Venezuela
 email: admin@iglesiacuadrangular.com.ve
 description: Iglesia Cristiana Cuadrangular de Venezuela
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iglesiacuadrangular.com.ve" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://laiglesiacuadrangular.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 baseurl: ""
 disqus: IglesiaCuadrangular
@@ -16,7 +16,7 @@ author: Iglesia Cuadrangular
 logo: /images/logo.png
 lang: es
 markdown: kramdown
-remote_theme: IglesiaCristianaCuadrangular/jekyll-theme-cuadrangular
+remote_theme: LaIglesiaCuadrangular/jekyll-theme-cuadrangular
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
